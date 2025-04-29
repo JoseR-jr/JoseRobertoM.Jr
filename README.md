@@ -1,6 +1,6 @@
 ## Hello, World! I'am José Roberto Jr. 👋
 
-- 🌱 I’m currently study Systems Analysis and Development in Estácio.
+- 🌱 I’m currently study Systems Analysis and Development in University Estácio de Sá.
 
 
 <div> 
